@@ -1,6 +1,6 @@
 # Salesforce Lightning Web Component Specialist Project
 
-### Components for the "Friend Ships" lightning application found in 'force-app/main/lwc' directory
+### Components for the "Friend Ships" lightning application found in 'force-app/main/default/lwc' directory
 
 Utilizing the Salesforce Lightning Design System (SLDS), I've constructed a CRM application using functional Lightning web components. 
 
